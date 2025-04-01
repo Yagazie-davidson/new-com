@@ -1,3 +1,1 @@
-## GOAT'S SALVATION
 
-Goat's Salvation is a fully functional e-commerce website that demonstrates advanced state management, modern styling, secure payment integration, and seamless order processing. Built with Next.js, Zustand, and TailwindCSS, it ensures a smooth and dynamic user experience. Orders from customers are securely stored in the Supabase database, enabling efficient order management. Additionally, the platform features a newsletter system powered by Nodemailer and Supabase, allowing users to subscribe and receive regular updates. Payments are handled via Paystack, ensuring a secure and reliable checkout process.
